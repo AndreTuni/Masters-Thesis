@@ -1,5 +1,3 @@
-Here's a cleaner README that focuses purely on describing the thesis and its contents, without mentioning citations, publications, or the repository itself.
-
 # AI Takeover Framework for Authoritative Multiplayer Game Servers
 
 ## Overview
